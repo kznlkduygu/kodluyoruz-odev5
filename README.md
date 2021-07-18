@@ -1,8 +1,12 @@
 # twitter-clone
 
-![tweetleme](https://user-images.githubusercontent.com/48677712/126061790-aa35b6c8-dfda-433b-9804-6136befcec46.PNG)
+***Login***
+
 ![login](https://user-images.githubusercontent.com/48677712/126061792-1f91f5ab-f88c-4f82-872d-6005a5107838.PNG)
 
+***Tweet atma aksiyonu***
+
+![tweetleme](https://user-images.githubusercontent.com/48677712/126061790-aa35b6c8-dfda-433b-9804-6136befcec46.PNG)
 
 
 
