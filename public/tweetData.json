@@ -1,0 +1,122 @@
+[
+	{
+		"id": "39946986-8DBD-EEB8-AE67-A42A3773029C",
+		"name": "Nell Macias",
+		"username": "Philip",
+		"tweetContent": "Cras vulputate velit eu sem. Pellentesque ut ipsum ac mi",
+		"likeCount": 11,
+		"retweetCount": 31,
+		"replyCount": 5,
+		"dateTime": "2021-07-01 09:17:20",
+		"isLike": false,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "4B9CC441-F644-F841-04FF-53CB4F12FBA3",
+		"name": "Maxwell Barton",
+		"username": "Josephine",
+		"tweetContent": "purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam",
+		"likeCount": 61,
+		"retweetCount": 12,
+		"replyCount": 0,
+		"dateTime": "2021-06-14 22:56:00",
+		"isLike": true,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "80B54B9E-A6CD-E70C-398B-80CF4E5F44AE",
+		"name": "Cooper Vance",
+		"username": "Naida",
+		"tweetContent": "facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo",
+		"likeCount": 33,
+		"retweetCount": 13,
+		"replyCount": 5,
+		"dateTime": "2021-06-10 11:38:49",
+		"isLike": false,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "5BB327AC-1AED-E3DD-1E24-D3291FDA829B",
+		"name": "Candice Gibson",
+		"username": "Signe",
+		"tweetContent": "Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum",
+		"likeCount": 32,
+		"retweetCount": 36,
+		"replyCount": 5,
+		"dateTime": "2021-07-03 00:04:12",
+		"isLike": false,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "F0E94B9E-6231-5665-C956-29FA6E81CFDB",
+		"name": "Cyrus Mathews",
+		"username": "Sawyer",
+		"tweetContent": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+		"likeCount": 4,
+		"retweetCount": 39,
+		"replyCount": 6,
+		"dateTime": "2021-07-01 04:58:15",
+		"isLike": true,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "F4C17A44-078F-899B-82CA-9D20C6622366",
+		"name": "Hadley Harris",
+		"username": "Omar",
+		"tweetContent": "Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla",
+		"likeCount": 56,
+		"retweetCount": 17,
+		"replyCount": 8,
+		"dateTime": "2021-07-11 01:48:53",
+		"isLike": false,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "39A0D277-768A-3C17-17FA-9C5395C2251D",
+		"name": "Lucian Hendrix",
+		"username": "Hammett",
+		"tweetContent": "adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor",
+		"likeCount": 56,
+		"retweetCount": 13,
+		"replyCount": 4,
+		"dateTime": "2021-07-03 16:25:40",
+		"isLike": true,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "D85381C4-5CA1-39A8-7EF1-4DD29D6632E1",
+		"name": "Lionel Richardson",
+		"username": "Leonard",
+		"tweetContent": "at risus. Nunc ac sem ut dolor dapibus gravida. Aliquam",
+		"likeCount": 2,
+		"retweetCount": 40,
+		"replyCount": 2,
+		"dateTime": "2021-06-17 00:17:04",
+		"isLike": false,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "945520BB-DF1A-5F00-B010-8C8B1C3E0FB7",
+		"name": "Dante Silva",
+		"username": "Ebony",
+		"tweetContent": "diam eu dolor egestas rhoncus. Proin nisl sem, consequat nec,",
+		"likeCount": 70,
+		"retweetCount": 49,
+		"replyCount": 1,
+		"dateTime": "2021-06-22 10:47:33",
+		"isLike": false,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	},
+	{
+		"id": "DDA2C1F8-5914-B8E3-9394-292E70253D48",
+		"name": "Linda Cannon",
+		"username": "Bryar",
+		"tweetContent": "sed, hendrerit a, arcu. Sed et libero. Proin mi. Aliquam",
+		"likeCount": 57,
+		"retweetCount": 16,
+		"replyCount": 1,
+		"dateTime": "2021-06-30 00:52:10",
+		"isLike": true,
+        "profilePicture": "http://lorempixel.com/400/200/"
+	}
+]
